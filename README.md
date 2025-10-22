@@ -35,7 +35,7 @@ This project is a static landing page for a fictional gym named "FitCore Gym." T
 ![Form Section](Images/ReservationForm-Section.png)
 ![Footer Section](Images/Footer-Section.png)
 
-**Watch the Demo:** [Link to Demo Video](https://drive.google.com/drive/u/0/folders/1zp9GLH3gBmG6KscAAvnla7ZOrpZSlW0T)
+**Watch the Demo:** [Link to Demo Video](https://drive.google.com/file/d/1G1GLQH3gTTzHBerBlgvGQ6zB_I32vhqc/view?usp=drive_link)
 
 ## 🚀 Getting Started
 
